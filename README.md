@@ -1,2 +1,2 @@
 # linearreg
-https://snehalr.streamlit.app/
+https://rutujalr.streamlit.app
